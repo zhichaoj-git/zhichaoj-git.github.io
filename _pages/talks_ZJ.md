@@ -5,9 +5,22 @@ author_profile: true
 
 ---
 <!-- ## Talks and Presentations -->
+* <span style="font-size:0.9em;"> Does AI help humans make better decisions?
+     * <span style="font-size:0.9em;"> Clubear,  Aug 2024 
+     * <span style="font-size:0.9em;"> 现场统计学会因果推断分会,   March, 2024 <br><br>
+     
+* <span style="font-size:0.9em;"> Principal Stratification with Continuous Post-Treatment Variables
+     * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Jul 2024 
+     * <span style="font-size:0.9em;"> Joint Conference on Statistics and Data Science in China, invited,  Jul 2024 <br><br>
+     
+* <span style="font-size:0.9em;"> An instrumental variable method for point processes
+     * <span style="font-size:0.9em;"> Southwestern University of Finance and Economics, Nov 2023 
+     * <span style="font-size:0.9em;"> Joint Conference on Statistics and Data Science in China, invited,  Jul 2023 <br><br>
+     
+     
 * <span style="font-size:0.9em;"> Policy Learning with Asymmetric Utilities
      * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Sep 2023 
-     * <span style="font-size:0.9em;">  International Forum on Statistics, Renmin University of China,  Jul 2023 <br><br>
+     * <span style="font-size:0.9em;">  International Forum on Statistics, Renmin University of China,  Jul 2023
      * <span style="font-size:0.9em;"> ICSA China, invited,  Jul 2023 <br><br>
      
 * <span style="font-size:0.9em;"> Principal stratification Based on Outcomes

@@ -35,7 +35,7 @@ My research mainly focuses on causal inference.
        - mediation
 - Complex data structure
       - point process data
-      - spatial-temporal data
+      - spatio-temporal data
       - network data
 - Measurement error and misclassification  
 - Missing data: non-ignorable missing data mechanisms

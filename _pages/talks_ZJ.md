@@ -5,6 +5,18 @@ author_profile: true
 
 ---
 <!-- ## Talks and Presentations -->
+* <span style="font-size:0.9em;"> Policy Learning with Asymmetric Utilities
+     * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Sep 2023 
+     * <span style="font-size:0.9em;">  International Forum on Statistics, Renmin University of China,  Jul 2023 <br><br>
+     * <span style="font-size:0.9em;"> ICSA China, invited,  Jul 2023 <br><br>
+     
+* <span style="font-size:0.9em;"> Principal stratification Based on Outcomes
+     * <span style="font-size:0.9em;"> Joint Statistical Meetings, virtual,  invited, Aug 2022 <br><br>
+
+* <span style="font-size:0.9em;"> Safe Policy Learning through Extrapolation
+     * <span style="font-size:0.9em;"> Xiamen University,  Nov 2022 
+     * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Sep 2022 
+     * <span style="font-size:0.9em;"> ICSA China, invited,  Apr 2022 <br><br>
 
 * <span style="font-size:0.9em;"> Statistical inference and power analysis for direct and spillover effects in two-stage randomized experiments
      * <span style="font-size:0.9em;"> Joint Statistical Meetings, virtual conference,  invited, Aug 2021 <br><br>

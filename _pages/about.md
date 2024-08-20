@@ -31,12 +31,12 @@ My research mainly focuses on causal inference.
      - sensitivity analysis
      - natural experiments
 - Post-treatment variable adjustment: 
-       + principal stratification: non-compliance, surrogate, truncation-by-death
-       + mediation
+       - principal stratification: non-compliance, surrogate, truncation-by-death
+       - mediation
 - Complex data structure
-      * point process data
-      * spatial-temporal data
-      * network data
+      - point process data
+      - spatial-temporal data
+      - network data
 - Measurement error and misclassification  
 - Missing data: non-ignorable missing data mechanisms
 

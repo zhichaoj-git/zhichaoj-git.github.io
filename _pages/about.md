@@ -25,20 +25,20 @@ My main interests are causal inference methodologies and contaminated data probl
 ### Research Interests
 My research mainly focuses on causal inference.  
   
-   - Randomization-based analysis of experiments
-   - Observational studies with unmeasured confounding
+- Randomization-based analysis of experiments
+- Observational studies with unmeasured confounding
      - instrumental variable approaches
      - sensitivity analysis
      - natural experiments
-   - Post-treatment variable adjustment: 
+- Post-treatment variable adjustment: 
        + principal stratification: non-compliance, surrogate, truncation-by-death
        + mediation
-   - Complex data structure
-      + point process data
-      + spatial-temporal data
-      + network data
-   - Measurement error and misclassification  
-   - Missing data: non-ignorable missing data mechanisms
+- Complex data structure
+      * point process data
+      * spatial-temporal data
+      * network data
+- Measurement error and misclassification  
+- Missing data: non-ignorable missing data mechanisms
 
    
 

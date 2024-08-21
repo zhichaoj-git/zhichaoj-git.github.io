@@ -31,7 +31,7 @@ My research mainly focuses on causal inference.
      - instrumental variable approaches
      - sensitivity analysis
      - natural experiments
-  - Post-treatment variable adjustment: 
+  - Post-treatment variable adjustment 
      - principal stratification: non-compliance, surrogate, truncation-by-death
      - mediation
   - Complex data structure

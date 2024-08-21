@@ -7,9 +7,9 @@ author_profile: true
 <!-- ## Talks and Presentations -->
 * <span style="font-size:0.9em;"> Does AI help humans make better decisions?
      * <span style="font-size:0.9em;"> Clubear,  Aug 2024 
-     * <span style="font-size:0.9em;"> 现场统计学会因果推断分会,   March, 2024 <br><br>
+     * <span style="font-size:0.9em;"> 现场统计学会因果推断分会,   March 2024 <br><br>
      
-* <span style="font-size:0.9em;"> Principal Stratification with Continuous Post-Treatment Variables
+* <span style="font-size:0.9em;"> Principal stratification with continuous post-treatment variables
      * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Jul 2024 
      * <span style="font-size:0.9em;"> Joint Conference on Statistics and Data Science in China, invited,  Jul 2024 <br><br>
      
@@ -18,15 +18,15 @@ author_profile: true
      * <span style="font-size:0.9em;"> Joint Conference on Statistics and Data Science in China, invited,  Jul 2023 <br><br>
      
      
-* <span style="font-size:0.9em;"> Policy Learning with Asymmetric Utilities
+* <span style="font-size:0.9em;"> Policy learning with asymmetric utilities
      * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Sep 2023 
      * <span style="font-size:0.9em;">  International Forum on Statistics, Renmin University of China,  Jul 2023
      * <span style="font-size:0.9em;"> ICSA China, invited,  Jul 2023 <br><br>
      
-* <span style="font-size:0.9em;"> Principal stratification Based on Outcomes
+* <span style="font-size:0.9em;"> Principal stratification based on outcomes
      * <span style="font-size:0.9em;"> Joint Statistical Meetings, virtual,  invited, Aug 2022 <br><br>
 
-* <span style="font-size:0.9em;"> Safe Policy Learning through Extrapolation
+* <span style="font-size:0.9em;"> Safe policy learning through extrapolation
      * <span style="font-size:0.9em;"> Xiamen University,  Nov 2022 
      * <span style="font-size:0.9em;"> Pacific Causal Inference Conference, invited,  Sep 2022 
      * <span style="font-size:0.9em;"> ICSA China, invited,  Apr 2022 <br><br>

@@ -6,6 +6,7 @@ author_profile: true
 ---
 <!-- ## Talks and Presentations -->
 * <span style="font-size:0.9em;"> Does AI help humans make better decisions?
+     * <span style="font-size:0.9em;"> Guangdong University of Technology,  Nov 2024 
      * <span style="font-size:0.9em;"> Renmin University of China,  Nov 2024 
      * <span style="font-size:0.9em;"> Hong Kong University of Science and Technology,  Nov 2024 
      * <span style="font-size:0.9em;"> Clubear,  Aug 2024 

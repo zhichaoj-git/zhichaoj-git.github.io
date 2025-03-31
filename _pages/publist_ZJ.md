@@ -7,6 +7,13 @@ author_profile: true
 
    
 <ol reversed style="font-size:17px">
+    <li>
+  Safe Policy Learning through Extrapolation: Application to Pre-trial Risk Assessment<br>
+  Ben-Michael, E., Greiner, J., Imai, K. and Jiang, Z.    <br>
+  <i>Journal of the American Statistical Association</i>,  accepted
+  <a href="https://arxiv.org/abs/2109.11679">[Arxiv]</a>   
+  </li>
+   
   <li>
   Policy Learning with Asymmetric Counterfactual Utilities<br>
   Ben-Michael, E., Imai, K. and Jiang, Z.    <br>

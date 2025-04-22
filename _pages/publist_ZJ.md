@@ -11,7 +11,7 @@ author_profile: true
   Safe Policy Learning through Extrapolation: Application to Pre-trial Risk Assessment<br>
   Ben-Michael, E., Greiner, J., Imai, K. and Jiang, Z.    <br>
   <i>Journal of the American Statistical Association</i>,  accepted
-  <a href="https://arxiv.org/abs/2109.11679">[Arxiv]</a>   
+  <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2489135">[DOI]</a>   
   </li>
    
   <li>

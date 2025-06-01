@@ -15,10 +15,10 @@ author_profile: true
    - 至少读过下列因果推断书籍中的一本
      - 《A First Course in Causal Inference》
      - 《Causal Inference in Statistics, Social, and Biomedical Sciences: An Introduction》 
-     - 《Causal Inference: What If》
      - 《Mostly Harmless Econometrics: An Empiricist's Companion》
      - 《Causal Inference: The Mixtape》
      - 《Causal Inference for the Brave and True》
+     - 《Causal Inference: What If》
  -  熟练使用R。
  -  心态开放，情绪稳定，乐于学习新的知识。    
 <p style="text-align: center;"><b>特别的要求</b></p>

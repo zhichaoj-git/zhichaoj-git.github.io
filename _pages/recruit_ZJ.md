@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 <!-- ## Talks and Presentations -->
-我每年会固定招收研究生，下面是对申请博士的一些要求，申请硕士也可以适当参考。
+长期招收研究生。下面是对申请博士的一些要求，申请硕士也可以参考。
 
    <p style="text-align: center;"><b>基本的要求</b></p>
    

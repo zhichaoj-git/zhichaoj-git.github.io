@@ -66,7 +66,7 @@ author_profile: true
 
   <li>
   Causal inference with interference and noncompliance in the two-stage randomized experiments <br>
-  Imai, K., Jiang, Z.<sup>*</sup>   and Malani, A.     <br>
+  Imai, K., Jiang, Z.  and Malani, A.     <br>
   <i>Journal of the American Statistical Association</i>, 116, 632-644, 2021
   <a href="https://doi.org/10.1080/01621459.2020.1775612">[DOI]</a>  
   </li>

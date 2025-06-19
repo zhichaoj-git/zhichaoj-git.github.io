@@ -17,7 +17,7 @@ author_profile: true
   <li>
   Policy Learning with Asymmetric Counterfactual Utilities<br>
   Ben-Michael, E., Imai, K. and Jiang, Z.    <br>
-  <i>Journal of the American Statistical Association</i>,  2024
+  <i>Journal of the American Statistical Association</i>, 119, 3045--3058,  2024
   <a href="https://doi.org/10.1080/01621459.2023.2300507">[DOI]</a>   
   </li>
 

@@ -60,7 +60,7 @@ author_profile: true
   Identification of causal effects within principal strata using auxiliary variables <br>
   Jiang, Z. and Ding, P.        <br>
   <i>Statistical Science</i>, 36, 493-508, 2021   
-  <a href="https://arxiv.org/abs/2008.02703">[arXiv]</a>  
+  <a href="https://projecteuclid.org/journals/statistical-science/volume-36/issue-4/Identification-of-Causal-Effects-Within-Principal-Strata-Using-Auxiliary-Variables/10.1214/20-STS810.full">[DOI]</a>  
   </li>
   
 

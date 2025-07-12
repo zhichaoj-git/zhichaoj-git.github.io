@@ -7,14 +7,14 @@ author_profile: true
 
    
 <ol reversed style="font-size:17px">
-    <li>
+  <li>
   Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation<br>
   Lu, S., Jiang, Z and Ding, P.    <br>
   <i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i>,  accepted
   <a href="https://doi.org/10.48550/arXiv.2309.14486">[ArXiv]</a>   
   </li>
    
-    <li>
+  <li>
   Safe Policy Learning through Extrapolation: Application to Pre-trial Risk Assessment<br>
   Ben-Michael, E., Greiner, J., Imai, K. and Jiang, Z.    <br>
   <i>Journal of the American Statistical Association</i>,  accepted

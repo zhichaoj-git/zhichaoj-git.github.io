@@ -7,11 +7,18 @@ author_profile: true
 
    
 <ol reversed style="font-size:17px">
+   <li>
+  Does AI help humans make better decisions? A statistical evaluation framework for experimental and observational studies<br>
+  Ben-Michael, E., Greiner, J., Huang, M., Imai, K., Jiang, Z. and Shin, S.   <br>
+  <i>Proceedings of the National Academy of Sciences</i>,  accepted
+  <a href="https://arxiv.org/pdf/2403.12108">[ArXiv]</a>   
+  </li>
+   
   <li>
   Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation<br>
   Lu, S., Jiang, Z. and Ding, P.    <br>
   <i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i>,  accepted
-  <a href="https://doi.org/10.48550/arXiv.2309.14486">[ArXiv]</a>   
+  <a href="https://doi.org/10.1093/jrsssb/qkaf049">[DOI]</a>   
   </li>
    
   <li>

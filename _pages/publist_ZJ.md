@@ -11,7 +11,7 @@ author_profile: true
   Does AI help humans make better decisions? A statistical evaluation framework for experimental and observational studies<br>
   Ben-Michael, E., Greiner, J., Huang, M., Imai, K., Jiang, Z. and Shin, S.   <br>
   <i>Proceedings of the National Academy of Sciences</i>,  accepted
-  <a href="https://arxiv.org/pdf/2403.12108">[ArXiv]</a>   
+  <a href="https://doi.org/10.1073/pnas.2505106122">[DOI]</a>   
   </li>
    
   <li>

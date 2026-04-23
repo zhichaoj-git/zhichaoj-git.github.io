@@ -17,7 +17,7 @@ author_profile: true
   <li>
   Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation<br>
   Lu, S., Jiang, Z. and Ding, P.    <br>
-  <i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i>,  accepted
+  <i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i>,  88(1), 239--260, 2026
   <a href="https://doi.org/10.1093/jrsssb/qkaf049">[DOI]</a>   
   </li>
    

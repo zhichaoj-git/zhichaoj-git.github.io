@@ -7,6 +7,13 @@ author_profile: true
 
    
 <ol reversed style="font-size:17px">
+
+<li>
+  Longitudinal Causal Inference with Selective Eligibility: Application to Pretrial Risk Assessment<br>
+  Jiang, Z.,  Ben-Michael, E., Greiner, J., Halen, R. and Imai, K.    <br>
+  <i>Annals of Applied Statistics</i>,  accepted
+  <a href="https://arxiv.org/pdf/2410.17864">[Arxiv]</a>   
+  </li>
    
   <li>
   Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation<br>

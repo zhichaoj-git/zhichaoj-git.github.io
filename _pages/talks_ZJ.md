@@ -1,7 +1,7 @@
 ---
 permalink: /talk/
 title: ""
-author_profile: false
+author_profile: true
 
 ---
 <!-- ## Talks and Presentations -->

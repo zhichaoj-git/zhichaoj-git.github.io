@@ -1,5 +1,5 @@
 ---
-permalink: /talk/
+permalink: 
 title: ""
 author_profile: true
 

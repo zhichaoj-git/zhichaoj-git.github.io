@@ -1,5 +1,5 @@
 ---
-permalink: Talks
+permalink: /talks/
 title: ""
 author_profile: true
 

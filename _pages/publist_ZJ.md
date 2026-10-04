@@ -20,7 +20,7 @@ author_profile: true
   Longitudinal Causal Inference with Selective Eligibility: Application to Pretrial Risk Assessment<br>
   Jiang, Z.,  Ben-Michael, E., Greiner, J., Halen, R. and Imai, K.    <br>
   <i>Annals of Applied Statistics</i>,  20(3), 1917--1942, 2026
-  <a href="http://dx.doi.org/10.1214/26-AOAS2201">[Arxiv]</a>   
+  <a href="http://dx.doi.org/10.1214/26-AOAS2201">[DOI]</a>   
   </li>
    
   <li>

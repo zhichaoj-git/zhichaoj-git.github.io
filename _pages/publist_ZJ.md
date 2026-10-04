@@ -12,15 +12,15 @@ author_profile: true
 <li>
   Principled Analysis of Crossover Designs: Causal Effects, Efficient Estimation, and Robust Inference<br>
   Jiang, Z. and Ding, P.    <br>
-  <i>Annals of Statistics</i>,  accepted
-  <a href="https://arxiv.org/pdf/2511.09215">[Arxiv]</a>   
+  <i>Annals of Statistics</i>,  54(5), 2614--2636, 2026
+  <a href="http://dx.doi.org/10.1214/26-AOS2663">[DOI]</a>   
   </li>
 
 <li>
   Longitudinal Causal Inference with Selective Eligibility: Application to Pretrial Risk Assessment<br>
   Jiang, Z.,  Ben-Michael, E., Greiner, J., Halen, R. and Imai, K.    <br>
-  <i>Annals of Applied Statistics</i>,  accepted
-  <a href="https://arxiv.org/pdf/2410.17864">[Arxiv]</a>   
+  <i>Annals of Applied Statistics</i>,  20(3), 1917--1942, 2026
+  <a href="http://dx.doi.org/10.1214/26-AOAS2201">[Arxiv]</a>   
   </li>
    
   <li>
